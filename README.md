@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sahilsh31984303" target="blank"><img src="https://img.shields.io/twitter/follow/sahilsh31984303?logo=twitter&style=for-the-badge" alt="sahilsh31984303" /></a> </p>
 
-- 🔭 I’m currently working on **Tyroid Detection Project**
+- 🔭 I’m currently working on **Thyroid Detection Project**
 
 - 🌱 I’m currently learning **React.js and App Development**
 
