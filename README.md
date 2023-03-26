@@ -1,13 +1,13 @@
 ![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Sahil Sharma</h1>
-<h3 align="center">A passionate Mobile App developer from India</h3>
+<h3 align="center">A passionate Android App developer from India</h3>
 <img align="right" alt="programmer" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsharma17&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsharma17" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sahilsh31984303" target="blank"><img src="https://img.shields.io/twitter/follow/sahilsh31984303?logo=twitter&style=for-the-badge" alt="sahilsh31984303" /></a> </p>
 
-- 🔭 I’m currently working on **Thyroid Detection Project**
+- 🔭 I’m currently working on **Cryptode**
 
 - 🌱 I’m currently learning **React.js and App Development**
 
