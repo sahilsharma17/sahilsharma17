@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sahils17sam@gmail.com**
 
-- ⚡ Fun fact **I love Anime**
+- ⚡ Fun fact **I am an Anime weeb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
