@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Thyroid Detection using ML**
 
-- 🌱 I’m currently learning **React.js and App Development**
+- 🌱 I’m currently learning **DevOps and App Development**
 
 - 💬 Ask me about **Competitive Programming in Java**
 
